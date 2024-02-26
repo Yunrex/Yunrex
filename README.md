@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yunrex
 - 👀 I’m interested in HTML code
-- 🌱 I’m currently learning Patchkabel Lan-kabel
+- 🌱 I’m currently learning Patchkabel Lan-kabel and Wlan Kabel, that really exists, that I didn't know it existed
 - 💞️ I’m looking to collaborate on Patreko
 - 📫 How to reach me 
 
